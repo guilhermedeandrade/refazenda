@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
 
       <main className="flex flex-col items-center justify-center h-screen">
-        <h1 className="text-4xl sm:text-6xl text-center font-bold text-yellow-500 tracking-widest text-shadow-md">
+        <h1 className="text-5xl sm:text-6xl text-center font-bold text-yellow-500 tracking-widest text-shadow-md">
           refazenda
         </h1>
 
